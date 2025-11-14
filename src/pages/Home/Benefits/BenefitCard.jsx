@@ -1,5 +1,5 @@
 import React from 'react';
-
+//add benfitr card
 const BenefitCard = ({ title, description, image }) => {
   return (
     <div className="card w-full bg-base-100 shadow-md border hover:shadow-lg transition-all">
