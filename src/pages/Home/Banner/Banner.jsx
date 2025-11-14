@@ -4,7 +4,7 @@ import bannerImg1 from '../../../assets/banner/banner1.png';
 import bannerImg2 from '../../../assets/banner/banner2.png';
 import bannerImg3 from '../../../assets/banner/banner3.png';
 import { Carousel } from 'react-responsive-carousel';
-
+// add banner
 const Banner = () => {
     return (
         <Carousel autoPlay={true} infiniteLoop={true} showThumbs={false}>
