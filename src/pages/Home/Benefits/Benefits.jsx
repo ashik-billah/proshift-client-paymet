@@ -3,6 +3,7 @@ import BenefitCard from './BenefitCard';
 import tracking from '../../../assets/benefits/tracking.png';
 import call from '../../../assets/benefits/call.png';
 import support from '../../../assets/benefits/support.png';
+//add benefit section
 
 const benefits = [
   {
