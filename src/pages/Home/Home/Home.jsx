@@ -4,7 +4,7 @@ import Services from '../Services/Services';
 import ClientLogosMarquee from '../ClientLogosMarquee/ClientLogosMarquee';
 import Benefits from '../Benefits/Benefits';
 import BeMerchant from '../BeMerchant/BeMerchant';
-
+//add home
 const Home = () => {
     return (
         <div>

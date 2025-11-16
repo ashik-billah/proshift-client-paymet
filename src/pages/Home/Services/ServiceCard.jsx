@@ -1,5 +1,5 @@
 import React from 'react';
-
+//add service
 const ServiceCard = ({ service }) => {
     const {icon: Icon, title, description} = service
   return (
