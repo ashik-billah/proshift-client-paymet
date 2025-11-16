@@ -1,7 +1,8 @@
 import React from 'react';
 import Marquee from 'react-fast-marquee';
-
+//add 
 // import your logos
+
 import amazon from '../../../assets/brands/amazon.png';
 import google from '../../../assets/brands/google.png';
 import casio from '../../../assets/brands/casio.png';
