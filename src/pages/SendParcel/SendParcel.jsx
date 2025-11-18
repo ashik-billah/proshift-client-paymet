@@ -109,6 +109,7 @@ const SendParcel = () => {
                         console.log(res.data);
                         if (res.data.insertedId) {
                             // TODO: redirect to a payment page 
+                            //add redirect
                             Swal.fire({
                                 title: "Redirecting...",
                                 text: "Proceeding to payment gateway.",
