@@ -24,6 +24,7 @@ const SendParcel = () => {
 
     const serviceCenters = useLoaderData();
     // Extract unique regions
+    //add region
     const uniqueRegions = [...new Set(serviceCenters.map((w) => w.region))];
     // Get districts by region
     const getDistrictsByRegion = (region) =>
