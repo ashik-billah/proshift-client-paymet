@@ -148,7 +148,7 @@ const SendParcel = () => {
                             {errors.title && <p className="text-red-500 text-sm">Parcel name is required</p>}
                         </div>
 
-                        {/* Type */}
+                        {/* Type  add*/}
                         <div>
                             <label className="label">Type</label>
                             <div className="flex gap-4">
