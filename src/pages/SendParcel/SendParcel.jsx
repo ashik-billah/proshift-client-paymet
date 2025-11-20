@@ -133,7 +133,7 @@ const SendParcel = () => {
                     <p className="text-gray-500">Fill in the details below</p>
                 </div>
 
-                {/* Parcel Info */}
+                {/* Parcel Info  add */}
                 <div className="border p-4 rounded-xl shadow-md space-y-4">
                     <h3 className="font-semibold text-xl">Parcel Info</h3>
                     <div className="space-y-4">
