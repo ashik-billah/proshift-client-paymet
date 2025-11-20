@@ -174,7 +174,7 @@ const SendParcel = () => {
                             {errors.type && <p className="text-red-500 text-sm">Type is required</p>}
                         </div>
 
-                        {/* Weight */}
+                        {/* Weight add  */}
                         <div>
                             <label className="label">Weight (kg)</label>
                             <input
