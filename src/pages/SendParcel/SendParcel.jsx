@@ -240,7 +240,7 @@ const SendParcel = () => {
                     </div>
                 </div>
 
-                {/* Submit Button */}
+                {/* Submit Button add */}
                 <div className="text-center">
                     <button className="btn btn-primary text-black">Submit</button>
                 </div>
