@@ -216,7 +216,7 @@ const SendParcel = () => {
                         </div>
                     </div>
 
-                    {/* Receiver Info */}
+                    {/* Receiver Info add */}
                     <div className="border p-4 rounded-xl shadow-md space-y-4">
                         <h3 className="font-semibold text-xl">Receiver Info</h3>
                         <div className="grid grid-cols-1 gap-4">
