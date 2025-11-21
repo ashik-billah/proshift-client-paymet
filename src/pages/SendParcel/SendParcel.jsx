@@ -191,7 +191,7 @@ const SendParcel = () => {
                 </div>
 
 
-                {/* Sender & Receiver Info */}
+                {/* Sender & Receiver Info add*/}
                 <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                     {/* Sender Info */}
                     <div className="border p-4 rounded-xl shadow-md space-y-4">
