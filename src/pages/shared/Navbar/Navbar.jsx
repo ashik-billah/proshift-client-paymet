@@ -2,6 +2,7 @@ import React from 'react';
 import { Link, NavLink } from 'react-router';
 import ProFastLogo from '../ProFastLogo/ProFastLogo';
 import useAuth from '../../../hooks/useAuth';
+//add
 
 const Navbar = () => {
     const { user, logOut } = useAuth();
